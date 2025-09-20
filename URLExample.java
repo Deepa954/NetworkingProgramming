@@ -1,7 +1,7 @@
 import java.net.MalformedURLException;
 import java.net.URL;
 
-@SuppressWarnings("deprecation")
+
 public class URLExample {
     public static void main(String[] args) {
         try {
@@ -35,25 +35,5 @@ public class URLExample {
 }
 
 
-// 
 
-            // String protocol = url.getProtocol();
-            // System.out.println("Protocol: " + protocol);
-
-            // String host = url.getHost();
-            // System.out.println("Host: " + host);
-
-            // int port = url.getPort();
-            // System.out.println("Port: " + port);
-
-            // String file = url.getFile();
-            // System.out.println("File: " + file);
-
-            // String authority = url.getAuthority();
-            // System.out.println("Authority: " + authority);
-
-            // String userInfo = url.getUserInfo();
-            // System.out.println("User Info: " + userInfo);
-
-            // String stringUrl = url.toString();
-            // System.out.println("URL: " + stringUrl);
+           
